@@ -1,0 +1,5 @@
+case "branch":
+                    repo.branch(commandParts[1]);
+                    break;
+                case "checkout":
+                    repo.checkout(commandParts[1]);
